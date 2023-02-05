@@ -1,0 +1,46 @@
+.table {
+    border-style: solid;
+    border-width: 1px;
+    border-color: grey;
+    font-size: 10px
+  }
+  .table-header {
+    padding-left: 0.5em;
+    padding-right: 0.5em;
+    border-style: solid;
+    border-width: 2px
+  }
+  .table-data {
+    padding-left: 0.5em;
+    padding-right: 0.5em;
+    border-width: 1px;
+    border-color: grey
+  }
+  .form-wrapper,
+.table-wrapper {
+  margin: 0 auto;
+}
+
+  .edit-button {
+    padding: 7px 10px;
+    font-size: 0.875rem;
+    line-height: normal;
+    border-radius: 0.2rem;
+    color: #fff;
+    background-color: #d9af19;
+    border-color: #d9af19;
+    margin-right: 10px;
+    position: relative;
+    top: 1px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+  }
+  
+  .edit-button:hover {
+    text-decoration: none;
+    color: #ffffff;
+  }
+  .delete-button {
+    margin-bottom: 10px;
+    margin-top: 10px;
+  }
