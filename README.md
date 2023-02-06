@@ -1,6 +1,17 @@
 # Terra Firma Assessment Project
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Uzair Ebrahim
+
+This project is a containerized single page web application implementing CRUD operations, with Authentication and Authorization.
+
+The technology stack comprises of:
+ReactJS
+NodeJS
+Express
+MongoDB
+JSON Web Tokens
+Redux
+Docker
 
 ## To Start Project
 
