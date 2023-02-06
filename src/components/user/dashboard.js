@@ -2,7 +2,6 @@ import { useEffect } from 'react'
 import { useHistory } from 'react-router-dom'
 import { useSelector } from 'react-redux'
 
-import Spinner from '../common/spinner'
 
 function Dashboard() {
   const navigate = useHistory()

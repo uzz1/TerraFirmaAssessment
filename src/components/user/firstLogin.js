@@ -1,20 +1,14 @@
-import { useHistory } from 'react-router-dom'
-import { useSelector } from 'react-redux'
+import { Link } from 'react-router-dom'
 
 
 function FirstLogin() {
-  const navigate = useHistory()
 
-  const { user } = useSelector((state) => state.auth)
-  
-  
-
-
+    
 
   return (
     <>
       <section className='heading'>
-        <h1>Login to access this page</h1>
+        <h1><Link to="/login">Login </Link> to access this page</h1>
       </section>
 
       

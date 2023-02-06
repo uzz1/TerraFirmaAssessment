@@ -8,7 +8,7 @@ const connectDB = require('./config/db');
 
 // Express Route
 const employeeRoute = require('./routes/employeeRoutes')
-const userRoute = require('../backend/routes/userRoutes')
+const userRoute = require('./routes/userRoutes')
 
 // Connecting mongoDB Database
 connectDB();

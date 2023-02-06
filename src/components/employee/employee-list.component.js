@@ -18,7 +18,7 @@ export default class EmployeeList extends Component {
 
   componentDidMount() {
   
-    if (this.state.employees.length == 0) {
+    if (this.state.employees.length === 0) {
     axios.get(`${BASE_URL}/employees`)
       .then(res => {
         this.setState({
