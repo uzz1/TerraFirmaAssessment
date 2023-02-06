@@ -5,13 +5,7 @@
 This project is a containerized single page web application implementing CRUD operations, with Authentication and Authorization.
 
 The technology stack comprises of:
-ReactJS
-NodeJS
-Express
-MongoDB
-JSON Web Tokens
-Redux
-Docker
+ReactJS, NodeJS, Express, MongoDB, JSON Web Tokens, Redux, Docker
 
 ## To Start Project
 
