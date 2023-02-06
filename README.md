@@ -2,7 +2,7 @@
 
 ## Uzair Ebrahim
 
-This project is a containerized single page web application implementing CRUD operations, with Authentication and Authorization.
+This project is a containerized single page web application implementing CRUD operations, with Authentication and Authorization. It uses a normalized table stucture which pivots for mobile view. The app also implements error handling.
 
 The technology stack comprises of:
 ReactJS, NodeJS, Express, MongoDB, JSON Web Tokens, Redux, Docker
