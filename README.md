@@ -39,6 +39,8 @@ The App is containerized with docker
 
 To run the app using docker. Make sure you have docker installed.
 
+Make sure docker is running.
+
 In the project directory, you can run:
 
 ### `docker-compose up`
