@@ -74,11 +74,7 @@ function Header() {
 
           </Container>
            
-           
-          </>
-        )}
-
-            <NavDropdown.Divider />
+          <NavDropdown.Divider />
             <NavDropdown.Item href="#action/3.4">
             <Button>
             <FaUser />
@@ -87,6 +83,10 @@ function Header() {
             </Link>
               </Button>
             </NavDropdown.Item>
+          </>
+        )}
+
+           
           </NavDropdown>
         </Nav>
         </Container>
